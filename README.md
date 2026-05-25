@@ -82,4 +82,4 @@ known for credential harvesting and Telegram-based C2 exfiltration.
 
 ## Full Report
 
-→ [View Full Analysis Report (PDF)](https://github.com/bigmyk-e/pcap-network-traffic-analysis#:~:text=SOC%2DChallenge%2DPCAP%2DAnalysis.pdf)
+→ [View Full Analysis Report (PDF)](SOC-Challenge-PCAP-Analysis.pdf)
